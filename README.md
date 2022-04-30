@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Clone of Coursera Website.**
+- 🔭 I’m currently working on **Cloning Of amazon website**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms,React and Redux.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://gyan-portfolio.vercel.app/)**
 
 - 📫 How to reach me **gyanprakshme0051@gmail.com**
 
